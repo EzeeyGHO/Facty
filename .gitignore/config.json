@@ -1,0 +1,9 @@
+{
+    "prefix": ".",
+    "joinColor": "#2bd834",
+    "leaveColor": "#d8482b",
+    "banColor": "#2b3dd8",
+    "unbanColor": "#008b6e",
+    "kickColor": "#2bc1d8",
+    "warnColor": "#342bd8"
+}
